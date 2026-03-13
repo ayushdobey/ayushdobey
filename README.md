@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayushdobey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushdobey@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdobey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushdobey@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/ayushdobey/) 
 [![Codédex](https://img.shields.io/badge/Codédex-%23FF6B6B.svg?logo=code&logoColor=white)](https://www.codedex.io/@ayush1201)
 
@@ -18,7 +18,11 @@
 [![](https://visitcount.itsvg.in/api?id=ayushdobey&icon=0&color=0)](https://visitcount.itsvg.in)
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayushdobey/ayushdobey/output/snake.svg" alt="Snake animation" />
+---
+[![](https://visitcount.itsvg.in/api?id=ayushdobey&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/ayushdobey/ayushdobey/output/github-contribution-grid-snake.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
