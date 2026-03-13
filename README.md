@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=ayushdobey&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/ayushdobey/ayushdobey/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ayushdobey/ayushdobey/main/dist/github-contribution-grid-snake.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
