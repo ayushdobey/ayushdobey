@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my problem-solving skills and building small web development projects.<br><br>👯 I’m looking to collaborate on open-source projects related to web development and software engineering.<br><br>🤝 I’m looking for help with web development using HTMLL5 CSS3 AND JS.<br><br>🌱 I’m currently learning Data Structures & Algorithms, full-stack development.<br><br>💬 Ask me about C, C++, Python, HTML, CSS,  database fundamentals.<br><br>⚡ Fun fact: I enjoy turning ideas into small practical projects while continuously learning new technologies.
+#  About Me:
+ I’m currently working on improving my problem-solving skills and building small web development projects.<br><br> I’m looking to collaborate on open-source projects related to web development and software engineering.<br><br> I’m looking for help with web development using HTMLL5 CSS3 AND JS.<br><br> I’m currently learning Data Structures & Algorithms, full-stack development.<br><br>💬 Ask me about C, C++, Python, HTML, CSS,  database fundamentals.<br><br> Fun fact: I enjoy turning ideas into small practical projects while continuously learning new technologies.
 
 
 ## 🌐 Socials:
