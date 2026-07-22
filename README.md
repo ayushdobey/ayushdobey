@@ -12,10 +12,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
+ <!--
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayushdobey&show_icons=true&theme=tokyonight" height="170"/>
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayushdobey&layout=compact&theme=tokyonight" height="170"/>
-
+  -->
+   
   <img src="https://streak-stats.demolab.com?user=ayushdobey&theme=tokyonight" height="170"/>
 </p>
 
@@ -24,7 +26,7 @@
 <br clear="both">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushdobey&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🐍 Contribution Snake
 
